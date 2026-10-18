@@ -1,0 +1,11 @@
+{
+  "org": "kennethreitz",
+  "repo": "maya",
+  "versions": [
+    {
+      "commit": "9766619d007caf553357db6dba5485fb36ed4edd",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:34:41.434728+00:00"
+    }
+  ]
+}
