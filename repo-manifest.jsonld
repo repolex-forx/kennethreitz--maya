@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kennethreitz/maya/commit/9766619d007caf553357db6dba5485fb36ed4edd",
       "git:hexsha": "9766619d007caf553357db6dba5485fb36ed4edd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T13:34:41.434123+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kennethreitz/maya/commit/a88b8e19fe037d8cf7668760fbbcb11b099172af",
